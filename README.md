@@ -1,5 +1,7 @@
 # Movie Catalogue
 
+![](androidJetpack.jpeg)
+
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
