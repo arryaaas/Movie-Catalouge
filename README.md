@@ -1,7 +1,5 @@
 # Movie Catalogue
 
-![](android-jetpack.png)
-
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
